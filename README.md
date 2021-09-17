@@ -13,7 +13,7 @@ The code can be downloaded as a compressed `zip` file from the github web interf
 
 The repository can also be cloned using:
 ```
-git clone https://github.com/BarathKumarBK-15/Sliding-Window-Protocol.git
+git clone https://github.com/BarathKumarBK-15/Sliding-Window-Stop-Wait-Protocol.git
 ```
 
 The server program can be deployed locally after extraction by compiling and running the `server.c` file using the sequence of code in the terminal:
